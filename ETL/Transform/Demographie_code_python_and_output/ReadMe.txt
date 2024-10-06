@@ -1,0 +1,1 @@
+Le code python est appliqué pour l'année 2007 dans l'exemple mais on appliqué la même chose pour les autres (2012_2022).

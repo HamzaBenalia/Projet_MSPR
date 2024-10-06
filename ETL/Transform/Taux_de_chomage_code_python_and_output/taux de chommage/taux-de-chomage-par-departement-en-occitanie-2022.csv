@@ -1,0 +1,18 @@
+﻿Source : France Travail - STMT, Données brutes
+Demandeurs d’emploi inscrits en fin de mois à France Travail, Catégorie : A et B et C et D et E par Département - Département : Ariège 09 et Aude 11 et Aveyron 12 et Gard 30 et Gers 32 et Haute-Garonne 31 et Hautes-Pyrénées 65 et Hérault 34 et Lot 46 et Lozère 48 et Pyrénées-Orientales 66 et Tarn 81 - Janvier 2022 à Décembre 2022 - Données brutes
+https://statistiques.pole-emploi.org/stmt/defm?ff=A,B,C,D,E&fi=76&fj=09,11,12,30,32,31,65,34,46,48,66,81&lj=0&pp=202201-202212&ss=1
+Mois;Ariège 09;Aude 11;Aveyron 12;Gard 30;Gers 32;Haute-Garonne 31;Hautes-Pyrénées 65;Hérault 34;Lot 46;Lozère 48;Pyrénées-Orientales 66;Tarn 81;Total
+Janvier 2022; 16 770; 41 980; 21 280; 85 850; 15 250; 148 800; 23 060; 145 250; 16 240; 5 200; 61 360; 37 890; 618 920
+Février 2022; 16 590; 41 700; 21 100; 85 130; 15 150; 147 080; 22 630; 143 390; 16 090; 5 150; 60 780; 37 340; 612 130
+Mars 2022; 16 480; 41 530; 21 040; 84 400; 15 080; 146 510; 22 470; 142 820; 15 940; 5 080; 60 470; 37 220; 609 040
+Avril 2022; 16 220; 40 700; 20 620; 82 650; 14 810; 143 940; 21 750; 140 210; 15 600; 4 910; 58 870; 36 760; 597 050
+Mai 2022; 16 180; 40 110; 20 520; 81 720; 14 630; 143 100; 21 510; 137 840; 15 480; 4 840; 57 850; 36 650; 590 440
+Juin 2022; 16 000; 39 460; 20 220; 80 340; 14 410; 141 270; 21 120; 135 430; 15 290; 4 740; 56 760; 36 480; 581 510
+Juillet 2022; 15 780; 38 950; 20 020; 79 530; 14 460; 139 720; 20 750; 133 590; 15 170; 4 650; 55 950; 36 250; 574 810
+Août 2022; 16 120; 39 520; 20 500; 80 960; 14 730; 143 080; 21 090; 136 210; 15 390; 4 750; 56 880; 36 910; 586 140
+Septembre 2022; 16 460; 40 300; 20 830; 82 590; 14 770; 144 910; 21 380; 139 560; 15 650; 4 850; 58 840; 37 340; 597 460
+Octobre 2022; 16 490; 40 660; 20 930; 83 390; 14 770; 144 580; 21 810; 141 630; 15 840; 4 910; 60 320; 37 180; 602 510
+Novembre 2022; 16 650; 41 080; 21 010; 84 000; 14 740; 144 090; 22 680; 142 330; 16 020; 5 070; 61 250; 37 310; 606 230
+Décembre 2022; 16 540; 40 930; 20 950; 83 600; 14 600; 142 550; 22 470; 141 650; 15 930; 5 030; 61 040; 37 000; 602 290
+
+Les données présentées dans ce tableau sont arrondies à la dizaine. Pour cette raison, la somme des valeurs d’une ligne (ou d’une colonne) peut légèrement différer du total affiché.
