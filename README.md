@@ -1,4 +1,4 @@
-<img src="Images/download.jpg" alt="Image de Prédiction Électorale" style="width: 100%; height: auto;"/>
+<img src="Images/download.jpg" alt="Image de Prédiction Électorale" style="width: 80%; height: auto;"/>
 
 # Projet de Prédiction Électorale avec du Machine Learning
 
@@ -7,7 +7,7 @@ Ce projet a été réalisé dans le cadre d'un projet scolaire pour créer une p
 ## Équipe
 
 - **Hamza Benalia**
-- **Ayemerick Payet**
+- **Aymerick Payet**
 - **Nabil Bedjih**
 - **Eryan Delmon**
 
