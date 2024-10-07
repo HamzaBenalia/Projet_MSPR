@@ -1,3 +1,5 @@
+<img src="Images/download.jpg" alt="Image de Prédiction Électorale" style="width: 100%; height: auto;"/>
+
 # Projet de Prédiction Électorale avec du Machine Learning
 
 Ce projet a été réalisé dans le cadre d'un projet scolaire pour créer une preuve de concept (POC) sur la prédiction des tendances électorales en France. Le projet s'appuie sur des jeux de données historiques d'élections, ainsi que sur des indicateurs socio-économiques tels que le taux de chômage et la démographie.
