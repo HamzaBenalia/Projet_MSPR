@@ -1,4 +1,4 @@
-<img src="Images/download.jpg" alt="Image de Prédiction Électorale" style="width: 80%; height: auto;"/>
+![Machine Learning Diagram](https://github.com/HamzaBenalia/Projet_MSPR/blob/master/Images/MachineLearning_VF-1024x552.png)
 
 # Projet de prédiction électorale avec du machine learning
 
