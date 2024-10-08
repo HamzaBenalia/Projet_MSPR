@@ -1,6 +1,6 @@
 <img src="Images/download.jpg" alt="Image de Prédiction Électorale" style="width: 80%; height: auto;"/>
 
-# Projet de Prédiction Électorale avec du Machine Learning
+# Projet de prédiction électorale avec du machine learning
 
 Ce projet a été réalisé dans le cadre d'un projet scolaire pour créer une preuve de concept (POC) sur la prédiction des tendances électorales en France. Le projet s'appuie sur des jeux de données historiques d'élections, ainsi que sur des indicateurs socio-économiques tels que le taux de chômage et la démographie.
 
@@ -15,7 +15,7 @@ Ce projet a été réalisé dans le cadre d'un projet scolaire pour créer une p
 
 L'objectif de ce projet est de développer un modèle prédictif, basé sur des données historiques, permettant de prédire les résultats des élections futures. La POC se concentre sur un secteur géographique restreint et combine des données d'élections présidentielles et législatives, ainsi que des données sur le chômage et la démographie.
 
-## Jeux de Données Utilisés
+## Jeux de données utilisés
 
 Nous avons utilisé plusieurs sources de données publiques pour ce projet :
 
@@ -38,31 +38,32 @@ Les jeux de données ont été récupérés depuis les plateformes suivantes :
 - **Transformation (Transform)** : Traitement et nettoyage des données à l'aide de **Apache Spark** et **PySpark** pour garantir leur cohérence et les préparer pour l'analyse.
 - **Chargement (Load)** : Les données nettoyées ont été chargées dans une base de données **PostgreSQL** via un schéma en étoile.
 
-### 2. Architecture de Données
+### 2. Architecture de données
 
 Utilisation de **PostgreSQL** avec un schéma en étoile pour organiser les données en tables de faits et dimensions.
 
-### 3. Visualisation des Données
+### 3. Visualisation des données
 
-Les données ont été analysées et visualisées à l'aide de **Matplotlib** (Python) et **PowerBI** pour montrer les corrélations entre les résultats électoraux, le chômage, la démographie et d'autres indicateurs socio-économiques.
+Les données ont été analysées et visualisées à l'aide de **Matplotlib** (Python) et **PowerBI** pour montrer les corrélations entre les résultats électoraux, le chômage et la démographie.
 
-### 4. Modèles Prédictifs
+### 4. Modèles prédictifs
 
 Nous avons implémenté plusieurs modèles prédictifs avec **Python**, notamment :
 
-- **Régression Linéaire**
+- **Régression linéaire**
 - **XGBoost**
 - **Random Forest**
+- **CatBoost**
 
 Les modèles ont été entraînés sur des données passées et testés pour leur précision. Le modèle **Random Forest** a obtenu une **accuracy** de 94%.
 
-## Outils Utilisés
+## Outils utilisés
 
 - **Apache Spark** pour le traitement des données
 - **PySpark** pour les opérations de transformation
 - **PostgreSQL** pour la gestion de la base de données (Data Warehouse)
 - **PowerBI** et **Matplotlib** pour les visualisations
-- **Python** pour l'entraînement et l'évaluation des modèles prédictifs (Random Forest, XGBoost, etc.)
+- **Python** pour l'entraînement et l'évaluation des modèles prédictifs (Random Forest, XGBoost, CatBoost.)
 - **Google Drive** pour le partage et la collaboration
 - **Git** pour le versioning et la collaboration
 
@@ -91,7 +92,7 @@ apache-spark,
 pyspark,
 matplotlib
 
-4. python train_model.py
+4. python model.py
 
 
 ## Conclusion
