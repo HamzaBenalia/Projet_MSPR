@@ -94,6 +94,8 @@ matplotlib
 
 4. python model.py
 
+## Lien du rapport : https://github.com/HamzaBenalia/Projet_MSPR/blob/master/Rapport_Machine_Learning/Groupe_1_BEDJIH_PAYET_DELMON_BENALIA_rendu_mspr_RNCP_35584.pdf
+
 
 ## Conclusion
 Ce projet montre la puissance de l'intelligence artificielle pour prédire les résultats d'élections futures en se basant sur des données historiques et des indicateurs socio-économiques. Grâce à des modèles prédictifs avancés comme Random Forest et XGBoost, nous avons pu obtenir des résultats fiables avec une précision de 94%.
