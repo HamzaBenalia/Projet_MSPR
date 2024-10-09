@@ -1,5 +1,4 @@
 package fr.epsi.i1cap2024produits.test;
-
 import org.apache.spark.SparkConf;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
